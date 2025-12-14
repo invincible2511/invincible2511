@@ -1,4 +1,4 @@
-# Hi, I'm Ajinkya Pawar 👋
+# Hi, I'm Ajinkya Ashokrao Pawar 👋
 
 **Software Engineer** - building scalable distributed systems that handle millions of requests.
 
